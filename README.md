@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/appIcon.png" alt="NiHao Logo" width="200"/>
+  <img src="ios\Runner\Assets.xcassets\AppIcon.appiconset\_\1024.png" alt="Clima Logo" width="200"/>
 </p>
 
 ---
